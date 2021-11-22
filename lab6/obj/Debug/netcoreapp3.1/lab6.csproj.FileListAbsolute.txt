@@ -1,0 +1,14 @@
+E:\!Files\coding\c#\task1\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+E:\!Files\coding\c#\task1\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+E:\!Files\coding\c#\task1\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+E:\!Files\coding\c#\task1\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+E:\!Files\coding\c#\task1\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+E:\!Files\coding\c#\task1\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.AssemblyReference.cache
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
+E:\!Files\coding\c#\task1\lab6\obj\Debug\netcoreapp3.1\lab6.genruntimeconfig.cache
